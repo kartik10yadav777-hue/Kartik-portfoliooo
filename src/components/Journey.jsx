@@ -4,7 +4,7 @@ import { useReveal } from '../hooks/useReveal'
 const milestones = [
   {
     year: 'Age 12',
-    date: '2020',
+    date: '2022',
     title: 'The Obsession Begins',
     description: 'Something clicked. The idea of building meaningful systems — not just having a job — became an obsession that refused to quiet down.',
     status: 'completed',
@@ -12,7 +12,7 @@ const milestones = [
   },
   {
     year: 'Age 13',
-    date: '2021',
+    date: '2023',
     title: 'First Experiments',
     description: 'Content creation, early trading experiments, and the first taste of what it means to build something from nothing. Mostly learning what doesn\'t work.',
     status: 'completed',
@@ -20,7 +20,7 @@ const milestones = [
   },
   {
     year: 'Age 14',
-    date: '2022',
+    date: '2024',
     title: 'Trading & Learning Phase',
     description: 'Deeper exploration of financial markets, digital commerce, and self-directed learning outside the traditional education system.',
     status: 'completed',
@@ -28,7 +28,7 @@ const milestones = [
   },
   {
     year: 'Age 15',
-    date: '2023',
+    date: '2025',
     title: 'Building Digital Projects',
     description: 'First real projects take shape — AeroSet, Veltrix, and early Vedra concepts. Learning to execute, not just ideate.',
     status: 'completed',
@@ -36,7 +36,7 @@ const milestones = [
   },
   {
     year: 'Age 16',
-    date: '2024',
+    date: '2026',
     title: 'Portfolio & Startup Ecosystem',
     description: 'Building this portfolio, refining Vedra, developing NeoOS as a long-term vision, and preparing seriously for international opportunities.',
     status: 'active',

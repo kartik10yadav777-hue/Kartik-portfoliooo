@@ -5,14 +5,12 @@ import { Suspense, lazy } from 'react'
 const Globe3D = lazy(() => import('./Globe3D'))
 
 const visionPoints = [
-  { icon: '🎓', label: 'International Education', desc: 'Studying in Germany, absorbing global perspectives, accessing world-class research ecosystems.' },
+ { icon: '🎓', label: 'Future Education', desc: 'Preparing for higher education in Germany while building technical and entrepreneurial skills.' },
   { icon: '🌐', label: 'Global Entrepreneurship', desc: 'Building companies that operate across borders, serving global markets from day one.' },
   { icon: '⚡', label: 'Advanced Technology', desc: 'Creating systems at the frontier — AI, aerospace, hardware, and the infrastructure of tomorrow.' },
-  { icon: '🔭', label: 'Civilizational Scale', desc: 'Working toward technologies that push humanity toward a Kardashev Type 2 civilization.' },
   { icon: '🤝', label: 'Intelligent Networks', desc: 'Building meaningful connections with builders, founders, and thinkers across the world.' },
   { icon: '📈', label: 'Meaningful Impact', desc: 'Creating value that outlasts the creator — systems, brands, and ideas that scale beyond any one person.' },
 ]
-
 export default function Vision() {
   const { ref, inView } = useReveal()
 

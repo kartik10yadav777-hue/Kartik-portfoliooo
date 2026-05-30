@@ -2,28 +2,28 @@ import { motion } from 'framer-motion'
 import { useReveal } from '../hooks/useReveal'
 
 const goals = [
-  {
+    {
     phase: '01',
-    title: 'Study in Germany',
-    timeframe: '2025–2026',
-    description: 'Access one of the world\'s best engineering and innovation ecosystems. Germany\'s universities and startup culture represent exactly the environment needed to accelerate growth.',
-    flag: '🇩🇪',
+    title: 'Learning and Building ',
+    timeframe: '2023-2027',
+    description: 'Developing skills in web development, product design, AI, and entrepreneurship while building real projects and working with clients.',
+    flag: '🛠️',
     color: '#C8A96B',
   },
   {
     phase: '02',
-    title: 'Build Global Startups',
-    timeframe: '2026–2028',
-    description: 'Create companies built for global markets from the ground up — not just local ventures that scale, but internationally-minded businesses from day one.',
-    flag: '🌐',
+    title: 'Global Education ',
+    timeframe: '2028–2032',
+    description: 'Pursuing higher education, expanding technical knowledge, and building an international perspective.',
+    flag: '🌍',
     color: '#6B9AC8',
   },
   {
     phase: '03',
-    title: 'Expand to the USA',
-    timeframe: '2028–2030',
-    description: 'Access the world\'s most powerful startup ecosystem, capital networks, and technology talent. Silicon Valley and beyond represent the next frontier.',
-    flag: '🇺🇸',
+    title: 'Global Entrepreneurship',
+    timeframe: '2028–2035',
+    description: 'Building technology companies and digital products for international markets.',
+    flag: '💼',
     color: '#7CAF8A',
   },
   {
