@@ -29,9 +29,9 @@ export default function Contact() {
   }
 
   const socials = [
-    { label: 'LinkedIn', icon: '💼', href: 'https://linkedin.com' },
-    { label: 'Instagram', icon: '📸', href: 'https://instagram.com' },
-    { label: 'Email', icon: '✉️', href: 'mailto:kartikyadav@example.com' },
+    { label: 'LinkedIn', icon: '💼', href: 'https://www.linkedin.com/in/kartik-yadav-90ab43412?utm_source=share_via&utm_content=profile&utm_medium=member_android' },
+    { label: 'Github', icon: '🐙', href: 'https://github.com/kartik10yadav777-hue/Kartik-yadav.git' },
+    { label: 'Email', icon: '📩', href: 'mailto:kartik10yadav777@gmail.com' },
   ]
 
   return (

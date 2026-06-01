@@ -5,9 +5,9 @@ const navLinks = [
   { label: 'About', href: '#about' },
   { label: 'Projects', href: '#projects' },
   { label: 'Team', href: '#cofounder' },
+  { label: 'Vision', href: '#vision' },
   { label: 'Journey', href: '#journey' },
   { label: 'Skills', href: '#skills' },
-  { label: 'Vision', href: '#vision' },
   { label: 'Contact', href: '#contact' },
 ]
 
@@ -88,7 +88,7 @@ export default function Navbar() {
 
           {/* CTA */}
           <motion.a
-            href="mailto:kartikyadav@example.com"
+            href="mailto:kartik10yadav777@gmail.com"
             className="hidden lg:flex items-center gap-2 px-4 py-2 border border-gold/30 rounded-full text-gold text-xs tracking-widest uppercase hover:bg-gold/10 transition-all duration-300"
             whileHover={{ scale: 1.05 }}
             whileTap={{ scale: 0.97 }}
